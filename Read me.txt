@@ -1,0 +1,8 @@
+Tech pizza is a standard delivery site. 
+the homepage should have a large image of a delicous pizza at the background
+With only 3 buttons. 
+Button 1 should link to a catalogue with prices
+Button 2 should be to track orders
+Button 3 could be About
+side note: the site could link up to the best pizzerias in the city.
+so orders can be made from various vendors such as Genesis, Kilimanjaro and pizza hut
